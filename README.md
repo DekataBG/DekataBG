@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello 👋 
 My name is Desislav Adamov - Aspiring Web Developer
 
-I am born in a small town in the Rhodope Mountains in Bulgaria and am currently studying Computer Science at Sofia University "St. Kliment Ohridski" and at Software University as of 2022.
+I am currently studying Computer Science at Sofia University "St. Kliment Ohridski" and at Software University as of 2022.
 
 Contents
 📗 About Me
