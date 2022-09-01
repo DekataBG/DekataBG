@@ -6,7 +6,7 @@ I am currently studying Computer Science at Sofia University "St. Kliment Ohrids
 
 
 ---
-  ## **📜 Certificates:**
+  ### **📜 Certificates:**
   
   [Programing Basics C#](https://softuni.bg/certificates/details/112114/fdfaa873)
   
@@ -22,13 +22,13 @@ I am currently studying Computer Science at Sofia University "St. Kliment Ohrids
   
   
   ---
-  ## **💡 Currently learning:**
+  ### **💡 Currently learning:**
   
   [JS Advanced](https://softuni.bg/modules/76/js-advanced/1362)
   
   
   ---
-  ## **🎓 SoftUni Repositories**
+  ### **🎓 SoftUni Repositories**
   
 [SoftUni](https://github.com/DekataBG/SoftUni)
 
@@ -42,7 +42,7 @@ I am currently studying Computer Science at Sofia University "St. Kliment Ohrids
 
 
 ---
-  ## **💻 Projects**
+  ### **💻 Projects**
   
   [Snake](https://github.com/DekataBG/Snake) - My first attempt to create Snake game. Almost did it on my own so the code is neither very clean but not optimised but still works :wink:
   
@@ -52,7 +52,7 @@ I am currently studying Computer Science at Sofia University "St. Kliment Ohrids
   
   
   ---
-  ## **💬 You can find me on: *desislavadamov_b17@schoolmath.eu*:email:**
+  ### **💬 You can find me on: *desislavadamov_b17@schoolmath.eu*:email:**
   
   
   ---
