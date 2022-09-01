@@ -1,6 +1,6 @@
 ### Hi there 👋:slightly_smiling_face:	
 
-My name is Desislav Adamov - Aspiring Web Developer
+My name is Desislav Adamov
 
 I am currently studying Computer Science at Sofia University "St. Kliment Ohridski" and at Software University as of 2022.
 
