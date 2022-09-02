@@ -44,7 +44,7 @@ I am currently studying Computer Science at Sofia University "St. Kliment Ohrids
 ---
   ### **💻 Projects**
   
-  [Snake](https://github.com/DekataBG/Snake) - My first attempt to create Snake game. Almost did it on my own so the code is neither very clean but not optimised but still works :wink:
+  [Snake](https://github.com/DekataBG/Snake) - My first attempt to create Snake game. Almost did it on my own so the code is neither very clean nor optimised but still works :wink:
   
   [Translations Blog](https://github.com/DekataBG/TranslationsBlog) - An attempt to create web blog made with the help of the indian guys on YouTube :sweat_smile:
   
@@ -52,7 +52,8 @@ I am currently studying Computer Science at Sofia University "St. Kliment Ohrids
   
   
   ---
-  ### **💬 You can find me on: *desislavadamov_b17@schoolmath.eu*:email:**
+  ### **💬 You can find me on: 
+  *desislavadamov_b17@schoolmath.eu*:email:**
   
   
   ---
