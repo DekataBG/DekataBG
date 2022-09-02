@@ -52,8 +52,8 @@ I am currently studying Computer Science at Sofia University "St. Kliment Ohrids
   
   
   ---
-  ### **💬 You can find me on: 
-  *desislavadamov_b17@schoolmath.eu*:email:**
+  ### 💬 You can find me on: 
+*desislavadamov_b17@schoolmath.eu*:email:
   
   
   ---
