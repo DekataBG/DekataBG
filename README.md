@@ -48,7 +48,7 @@ I am currently studying Computer Science at Sofia University "St. Kliment Ohrids
   
   [Translations Blog](https://github.com/DekataBG/TranslationsBlog) - An attempt to create web blog made only with the help of the indian guys on YouTube :sweat_smile:
   
-  [Library](https://github.com/DekataBG/Library) - An attempt to create a serious website. The project is still unfinished as I want to create it as good as possible 
+  [Library](https://github.com/DekataBG/Library) - An attempt to create a fully functioning website. The project is still unfinished as I want to create it as good as possible 
   
   
   ---
