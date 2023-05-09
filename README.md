@@ -2,7 +2,7 @@
 
 My name is Desislav Adamov
 
-I am currently studying Computer Science at Sofia University "St. Kliment Ohridski" and at Software University as of 2022.
+I am currently studying Computer Science at Sofia University "St. Kliment Ohridski" as of 2023.
 
 
 ---
