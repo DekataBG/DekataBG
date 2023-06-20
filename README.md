@@ -24,7 +24,8 @@ I am currently studying Computer Science at Sofia University "St. Kliment Ohrids
   ---
   ### **💡 Currently learning:**
   
-  [JS Advanced](https://softuni.bg/modules/76/js-advanced/1362)
+  C++
+  Java
   
   
   ---
@@ -43,17 +44,21 @@ I am currently studying Computer Science at Sofia University "St. Kliment Ohrids
 
 ---
   ### **💻 Projects**
+
+  [The Game of Life](https://github.com/DekataBG/GameOfLifeGUI) - My final project for the first semester at university. Im using good OOP practices and there is even a GUI.
   
   [Snake](https://github.com/DekataBG/Snake) - My first attempt to create Snake game. Almost did it on my own so the code is neither very clean nor optimised but still works :wink:
   
   [Translations Blog](https://github.com/DekataBG/TranslationsBlog) - An attempt to create web blog made only with the help of the indian guys on YouTube :sweat_smile:
   
-  [Library](https://github.com/DekataBG/Library) - An attempt to create a fully functioning website. The project is still unfinished as I want to create it as good as possible 
+  [Library](https://github.com/DekataBG/Library) - An attempt to create a fully functioning website. The project is still unfinished and is currently on hold 
+
+  [Message Scheduler](https://github.com/DekataBG/MessengerSchheduler) - Schedule a message on Messenger
   
   
   ---
   ### 💬 You can find me on: 
-:email: *desislavadamov_b17@schoolmath.eu*
+:email: *dekatawee@abv.bg*
   
   
   ---
