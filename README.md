@@ -1,8 +1,8 @@
-### Hi there 👋:slightly_smiling_face:	
+### Hi there 👋
 
 My name is Desislav Adamov
 
-I am currently studying Computer Science at Sofia University "St. Kliment Ohridski" as of 2023.
+I am currently studying Computer Science at Sofia University "St. Kliment Ohridski" as of 2024.
 
 
 ---
@@ -24,8 +24,7 @@ I am currently studying Computer Science at Sofia University "St. Kliment Ohrids
   ---
   ### **💡 Currently learning:**
   
-  C++
-  Java
+  Swift
   
   
   ---
@@ -51,7 +50,7 @@ I am currently studying Computer Science at Sofia University "St. Kliment Ohrids
   
   [Translations Blog](https://github.com/DekataBG/TranslationsBlog) - An attempt to create web blog made only with the help of the indian guys on YouTube :sweat_smile:
   
-  [Library](https://github.com/DekataBG/Library) - An attempt to create a fully functioning website. The project is still unfinished and is currently on hold 
+  [Library](https://github.com/DekataBG/Library) - The project is still unfinished and is currently on hold 
 
   [Message Scheduler](https://github.com/DekataBG/MessengerSchheduler) - Schedule a message on Messenger
   
